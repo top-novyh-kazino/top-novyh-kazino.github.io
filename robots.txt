@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-novyh-kazino.github.io
+Sitemap: https://top-novyh-kazino.github.io/sitemap.xml
